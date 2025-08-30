@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f7f7f7;
+}
+.todo-container {
+  margin-top: 2rem;
+}
+li {
+  margin: 8px 0;
+  padding: 6px 10px;
+  background: #fff;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}
